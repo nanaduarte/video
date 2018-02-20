@@ -452,8 +452,8 @@
 }
 	/*## [TAG-VIP] ##*/
 	
-       /*# [ninguem] #*/
-#user-rollover.id-000000 .level:after {
+       /*# [DEMONIA] #*/
+#user-rollover.id-21755082 .level:after {
     background-image: url(none);
     background-repeat: no-repeat;
     content: "[VIP]";
@@ -880,3 +880,4 @@
 	90% {color: #8000ff;}
 	100% {color: #ff0080;}
 }  
+
